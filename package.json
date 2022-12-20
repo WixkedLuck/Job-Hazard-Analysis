@@ -1,0 +1,30 @@
+{
+  "name": "job-hazard-analysis",
+  "version": "1.0.0",
+  "description": "Job-hazard-analysis for Axme Widgets",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect-session-sequelize": "^7.1.2",
+    "dotenv": "^11.0.0",
+    "express": "^4.17.2",
+    "express-handlebars": "^6.0.2",
+    "express-session": "^1.17.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WixkedLuck/Job-Hazard-Analysis.git"
+  },
+  "author": "WixkedLuck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WixkedLuck/Job-Hazard-Analysis/issues"
+  },
+  "homepage": "https://github.com/WixkedLuck/Job-Hazard-Analysis#readme"
+}
